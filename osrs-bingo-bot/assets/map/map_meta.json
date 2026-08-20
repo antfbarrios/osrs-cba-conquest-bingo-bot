@@ -1,0 +1,140 @@
+{
+  "canvas_size": [
+    468,
+    214
+  ],
+  "regions": {
+    "misthalin": {
+      "display_name": "Misthalin",
+      "offset": [
+        315,
+        19
+      ],
+      "size": [
+        128,
+        132
+      ],
+      "file": "regions/misthalin.png"
+    },
+    "karamja": {
+      "display_name": "Karamja",
+      "offset": [
+        261,
+        110
+      ],
+      "size": [
+        43,
+        73
+      ],
+      "file": "regions/karamja.png"
+    },
+    "asgarnia": {
+      "display_name": "Asgarnia",
+      "offset": [
+        227,
+        20
+      ],
+      "size": [
+        89,
+        193
+      ],
+      "file": "regions/asgarnia.png"
+    },
+    "kandarin": {
+      "display_name": "Kandarin",
+      "offset": [
+        184,
+        47
+      ],
+      "size": [
+        102,
+        166
+      ],
+      "file": "regions/kandarin.png"
+    },
+    "wilderness": {
+      "display_name": "Wilderness",
+      "offset": [
+        311,
+        3
+      ],
+      "size": [
+        68,
+        73
+      ],
+      "file": "regions/wilderness.png"
+    },
+    "desert": {
+      "display_name": "Desert",
+      "offset": [
+        330,
+        109
+      ],
+      "size": [
+        67,
+        101
+      ],
+      "file": "regions/desert.png"
+    },
+    "fremmy": {
+      "display_name": "Fremennik",
+      "offset": [
+        144,
+        2
+      ],
+      "size": [
+        176,
+        70
+      ],
+      "file": "regions/fremmy.png"
+    },
+    "morytania": {
+      "display_name": "Morytania",
+      "offset": [
+        377,
+        63
+      ],
+      "size": [
+        85,
+        130
+      ],
+      "file": "regions/morytania.png"
+    },
+    "tirannwn": {
+      "display_name": "Tirannwn",
+      "offset": [
+        160,
+        85
+      ],
+      "size": [
+        47,
+        73
+      ],
+      "file": "regions/tirannwn.png"
+    },
+    "kourend": {
+      "display_name": "Kourend",
+      "offset": [
+        12,
+        3
+      ],
+      "size": [
+        128,
+        114
+      ],
+      "file": "regions/kourend.png"
+    },
+    "varlamore": {
+      "display_name": "Varlamore",
+      "offset": [
+        3,
+        101
+      ],
+      "size": [
+        127,
+        108
+      ],
+      "file": "regions/varlamore.png"
+    }
+  }
+}

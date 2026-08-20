@@ -1,0 +1,8 @@
+# Copy this file to server-config.ps1 and fill in your real server IP.
+#
+# server-config.ps1 is gitignored -- it will NEVER be committed, so your
+# real server IP stays private even though this repo (and this template)
+# is public. Every other script (deploy.ps1, restart.ps1, sync-db.ps1,
+# logs.ps1) reads $ServerIP from that file automatically.
+
+$ServerIP = "YOUR_SERVER_IP_HERE"

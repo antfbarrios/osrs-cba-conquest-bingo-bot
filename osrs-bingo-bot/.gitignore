@@ -1,0 +1,16 @@
+# Secrets -- never commit
+.env
+service-account*.json
+osrs-bingo-*.json
+
+# Local-only server config (contains your real server IP)
+server-config.ps1
+
+# Runtime data -- regenerated automatically, don't commit
+bingo.db
+bingo_backup_*.db
+
+# Python
+__pycache__/
+*.pyc
+venv/
